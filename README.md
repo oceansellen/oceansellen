@@ -1,5 +1,5 @@
 # 🌸 About Me
-I'm a technical writer interested in improving my full-stack development skills.<br><br>I'm currently working on developing a portfolio to showcase my programming and technical writing skills.<br><br>I'm learning JavaScript and front-end development.
+I'm a technical writer interested in improving my full-stack development and UX design skills.<br><br>I'm currently working on developing a portfolio to showcase my programming and technical writing skills.<br><br>I'm learning JavaScript and front-end development.
 
 
 # 💻 Tech Stack
