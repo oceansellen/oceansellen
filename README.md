@@ -1,5 +1,5 @@
 # 🌸 About Me
-I'm an experienced technical writer and data nerd skilled in data literacy communication and analysis and visualization in Python who is interested in improving my full-stack development, UX design, and machine learning skills.<br><br>I'm currently working on developing a portfolio to showcase my programming and technical writing skills.<br><br>I'm learning JavaScript and front-end development.
+I'm an experienced technical writer and data nerd skilled in data literacy communication as well as data analysis and visualization in Python. I'm is interested in improving my full-stack development, UX design, and machine learning skills.<br><br>I'm currently working on developing a portfolio to showcase my programming and technical writing skills.<br><br>I'm learning JavaScript and front-end development.
 
 
 # 💻 Tech Stack
